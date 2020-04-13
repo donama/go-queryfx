@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1edf054d-a701-4933-8611-05105354534c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1XXlWOjr0SdRmaZa38lWONMnXdk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestQueryFX in github.com/donama/queryfx (3)">
+    <configuration name="TestEmptyQueryFX in github.com/donama/queryfx" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="queryfx" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/donama/queryfx" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestEmptyQueryFX$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestQueryFX in github.com/donama/queryfx (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="queryfx" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/donama/queryfx" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestQueryFX$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestQueryFX in github.com/donama/queryfx (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="queryfx" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/donama/queryfx" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestQueryFX$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestQueryFX in github.com/donama/queryfx (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="queryfx" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/donama/queryfx" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestQueryFX$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestQueryFX in github.com/donama/queryfx" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="queryfx" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/donama/queryfx" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestQueryFX$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestQueryFX in github.com/donama/queryfx (3)" />
+        <item itemvalue="Go Test.TestQueryFX in github.com/donama/queryfx (2)" />
+        <item itemvalue="Go Test.TestQueryFX in github.com/donama/queryfx (1)" />
+        <item itemvalue="Go Test.TestEmptyQueryFX in github.com/donama/queryfx" />
+        <item itemvalue="Go Test.TestQueryFX in github.com/donama/queryfx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="109" key="FileChooserDialogImpl" timestamp="1586761949446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586761949446" />
+    <state width="1286" height="304" key="GridCell.Tab.0.bottom" timestamp="1586739204038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="304" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586739204038" />
+    <state width="1286" height="304" key="GridCell.Tab.0.center" timestamp="1586739204038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="304" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586739204038" />
+    <state width="1286" height="304" key="GridCell.Tab.0.left" timestamp="1586739204038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="304" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586739204038" />
+    <state width="1286" height="304" key="GridCell.Tab.0.right" timestamp="1586739204038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="304" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586739204038" />
+  </component>
+</project>
