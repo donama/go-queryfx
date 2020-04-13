@@ -11,7 +11,7 @@ SQL statement that can executed safely against an SQL database.
 ## Installation
 
 ```bash
-go get github.com/donama/queryfx
+go get github.com/donama/go-queryfx
 ```
 
 ## License
